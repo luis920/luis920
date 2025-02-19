@@ -14,7 +14,7 @@
 </div>
 
 <!--Intro start-->
-- 👨‍🏫 I’m currently learning **AWS for cloud computing and node.js for backend.**
+- 👨‍🏫 Actualmente estoy aprendiendo **AWS para computación en la nube y node.js para backend.**
 
 - 👨‍💻 Tengo experiencia en desarrollo de interfaces interactivas y dinámicas con React y Flask para backend..
   
