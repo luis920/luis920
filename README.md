@@ -9,7 +9,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"No es un bug, es una feature"</h2></summary>
+    <summary><h2 style="display: inline-block">"Código, creatividad, soluciones."</h2></summary>
   </ul>
 </div>
 
