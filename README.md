@@ -3,24 +3,23 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Luis</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Luis</h1></summary>
   </ul>
 </div>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"It's not a bug, it's a feature."</h2></summary>
+    <summary><h2 style="display: inline-block">"No es un bug, es una feature"</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
 - 👨‍🏫 I’m currently learning **AWS for cloud computing and node.js for backend.**
 
-- 👨‍💻 I have experience in developing interactive and dynamic interfaces with React and Flask for backend.
+- 👨‍💻 Tengo experiencia en desarrollo de interfaces interactivas y dinámicas con React y Flask para backend..
   
-- 🤝 Committed to clean and efficient development, I always strive to write readable and modular.
+- 🤝 Comprometido con un desarrollo limpio y eficiente, siempre me esfuerzo por escribir codigo legible.
   
-- 📫 Feel free to reach me out **luis_galvan221@hotmail.com**
 
   <!--- stats & Trophy (start) -->
 <p align="center">
@@ -53,7 +52,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -66,7 +65,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Currently learning 👨‍🏫</h2></summary>
+    <summary><h2 style="display: inline-block">Actualmente Aprendiendo 👨‍🏫</h2></summary>
   </ul>
 </div>
 
